@@ -1,0 +1,34 @@
+1.Explain the use of JavaScript ( or What you can do using a JavaScript)
+A) Javscript is used to create mobile,desktop Applications. It is also used in 
+Machine Learning and BlockChain as well
+
+2. Diffrence between Clientside and ServerSide.?
+a) Clientside:- Works in the Frontend and doesn't needs interaction with the server.
+clientside server is slower in comparision to Serverside. It can reduce the load 
+of the server. Languages used in client side are HTML, CSS , JavaScript
+
+ServerSide: Work's in backend and needs interaction with server. Server side is faster 
+in comparision to client side. Increases the load on the server. Languages used are 
+Python, ASP.Net, PHP
+
+3.What is Node.js.?
+a) Its act as a complier which i used to run the javascript programs.
+node.js package ecosystem "npm" is one of the largest ecosystem of open source 
+libraries in the world.
+
+Node.js is JavaScript runtime built on Chrome's V8 JavaScript engine 
+which is useful in converting the javascript code to machine code 
+
+
+4. What is scope in Javascript.
+a) Scope refer to the availability of variable and function.
+In javascript variable has two type of scope.
+
+.Local Scope: The variable which is defined inside the function and i can be accssed inside the function.
+.Global Scope : The variable which is defined outside the function or at the top of the program.
+
+5. Javascript is synchronous or asynchronous.?
+A) Javascript is synchronous.
+
+6. JavaScript is Single-threaded or Multi-threaded.?
+a) Javascript is single-threaded.
